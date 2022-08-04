@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+:root{
+    --url-image: url('../img/1.jpg');
+    --btn-color: #CC021C;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
