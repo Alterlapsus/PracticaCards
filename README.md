@@ -1,5 +1,5 @@
 # Cards con CSSGRID
-- Se realiza proyecto de cards con CSSGRID para practicar los conocimiento adquiridos
+- Se realiza proyecto de cards con CSS-GRID para practicar los conocimiento adquiridos
 
 ---
 <a href="https://cardspractica.netlify.app/">Ver WebSite</a>
