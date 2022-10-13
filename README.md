@@ -20,7 +20,7 @@
 Tecnologías utilizadas:
 
 - HTML 
-- CSS - GRID
+- CSS Y GRID
 
 ---
 
@@ -32,7 +32,7 @@ Descargar de archivos:
 
 ---
 
-Realizado por: 
+Maquetado por: 
 
 - Israel de León 
 
